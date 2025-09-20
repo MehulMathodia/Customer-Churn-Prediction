@@ -4,6 +4,20 @@
 The goal of this project is to build a machine learning model that can predict whether a customer is likely to churn (leave a service) based on their historical data. This helps businesses proactively identify at-risk customers.
 
 ---
+## 🚀 Interactive Web App (NEW SECTION)
+This project includes an interactive web application built with Streamlit. You can upload your own dataset (in the same format as the Telco dataset) and the app will automatically train the models and display the performance results.
+
+### How to Run the App
+1.  Make sure you have Python and the required libraries installed:
+    ```bash
+    pip install streamlit pandas scikit-learn imblearn matplotlib seaborn
+    ```
+2.  Clone or download this repository to your local machine.
+3.  Navigate to the project folder in your terminal and run the following command:
+    ```bash
+    streamlit run app.py
+    ```
+---
 
 ## 📖 Methodology
 I followed these steps to build the prediction models:
