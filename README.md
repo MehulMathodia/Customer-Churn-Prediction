@@ -15,7 +15,7 @@ This project includes an interactive web application built with Streamlit. You c
 2.  Clone or download this repository to your local machine.
 3.  Navigate to the project folder in your terminal and run the following command:
     ```bash
-    streamlit run app.py
+    python -m streamlit run app.py
     ```
 ---
 
